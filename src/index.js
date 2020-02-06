@@ -23,6 +23,7 @@ class Board extends React.Component {
   render() {
    return (
       <div>
+        {/* eslint-disable-next-line no-restricted-globals */}
         <div className="status">{status}</div>
         <div className="board-row">
           {this.renderSquare(0)}
