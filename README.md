@@ -61,7 +61,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ad
 
 ### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+The deployed version of this game is here: https://tic-tac-toe-game-reacjscript.herokuapp.com/
 
 ### `npm run build` fails to minify
 
